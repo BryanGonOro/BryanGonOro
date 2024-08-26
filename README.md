@@ -55,16 +55,16 @@ Me apasionan el desarrollo de software, la blockchain, el emprendimiento innovad
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,javascript,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,javascript,php,apple,androidstudio,debian,mongodb,mysql&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,react&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,react,aws,gcp,vue,heroku,graphql&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,pycharm,vscode,stackoverflow,docker&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nextjs,nginx,opencv,pytorch,tensorflow,pycharm,vscode,stackoverflow,docker,laravel,linux&perline=9)](https://skillicons.dev)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=figma,html5,css3,wordpress.typescript&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,postman,html,css,wordpress,ts,bootstrap,cloudflare,codepen,ipfs,java&perline=6)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:bryandgonz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bryandgonz@gmail.com-blue?style=flat-square&logo=gmail"></a>
