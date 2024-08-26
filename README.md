@@ -64,7 +64,7 @@ Me apasionan el desarrollo de software, la blockchain, el emprendimiento innovad
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,pycharm,vscode,stackoverflow,docker&perline=9)](https://skillicons.dev)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=excel,powerbi&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html5,css3,wordpress.typescript&perline=6)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:bryandgonz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bryandgonz@gmail.com-blue?style=flat-square&logo=gmail"></a>
