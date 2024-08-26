@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy Bryan Gonzalez Orostegui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ingeniero+Industrial+..&hearts;++;Programador+de+tecnolog%C3%ADas+web;Manejo+de+JavaScript%2C+PHP+y+Python;Me+gusta+la+Inteligencia+Artificial;La+visi%C3%B3n+por+computadora;Y+crear+proyectos%2C+sobre+todo+open+source." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ingeniero+Industrial+..&hearts;++;Programador+de+tecnolog%C3%ADas+web;Manejo+de+JavaScript%2C+PHP+y+Python;Me+gusta+la+Inteligencia+Artificial;La+BlockChain;La+visi%C3%B3n+por+computadora;Y+crear+proyectos%2C+sobre+todo+open+source." alt="Typing SVG" />
 </p>
 
 <!--
@@ -55,16 +55,16 @@ Me apasionan el desarrollo de software, la blockchain, el emprendimiento innovad
 ## Habilidades y lenguajes:
 
 ### Lenguajes:
-[![My Skills](https://skillicons.dev/icons?i=py,javascript&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,javascript,php&perline=4)](https://skillicons.dev)
 
 ### Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,anaconda,react&perline=9)](https://skillicons.dev)
 
 ### Software y herramientas:
-[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,pycharm,vscode,stackoverflow&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,pycharm,vscode,stackoverflow,docker&perline=9)](https://skillicons.dev)
 
 ### Otros:
-[![My Skills](https://skillicons.dev/icons?i=sketchup,pr&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=excel,powerbi&perline=6)](https://skillicons.dev)
 
 ## Contacto:
 <a href="mailto:bryandgonz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bryandgonz@gmail.com-blue?style=flat-square&logo=gmail"></a>
