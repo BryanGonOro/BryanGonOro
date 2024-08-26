@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy Bryan Gonzalez Orostegui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Industrial+..&hearts;++;Programador+de+Javascript+PHP+TECNOLOGIAS+WEB+y+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+Industrial+..&hearts;++;Programador+en+Javascript+PHP+TECNOLOGIAS+WEB+y+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
 </p>
 
 <!--
@@ -13,7 +13,7 @@
 
 -->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## **Sobre mi**
 
 Soy profesional en Ingeniería Industrial, con experiencia en emprendimiento, gestión de negocios, desarrollo de software y manejo de sistemas de información. He acumulado conocimientos en la estructuración de mercados digitales y actualmente trabajo en proyectos paralelos utilizando tecnologías como Bitcoin, Ethereum e Hyperledger Fabric.
 
